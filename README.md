@@ -1,4 +1,4 @@
-<img src="https://github.com/gaslightsoft/bibliomake/bibmake.png" />
+<img src="https://github.com/gaslightsoft/bibliomake/blob/gh-pages/bibmake.png" />
 
 NOTICE: Incomplete Software - Still in Production<br/>
 
