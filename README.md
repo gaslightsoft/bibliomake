@@ -1,4 +1,4 @@
-<img src="bibmake.png" />
+<img src="https://github.com/gaslightsoft/bibliomake/bibmake.png" />
 
 NOTICE: Incomplete Software - Still in Production<br/>
 
