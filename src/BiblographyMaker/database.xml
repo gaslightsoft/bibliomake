@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ENTRIES>
+
+<source>
+<entry id="1" name="">
+  <type1>5</type1>
+  <title1></title1>
+  <date>
+    <day1></day1>
+    <month1></month1>
+    <year1></year1>
+  </date>
+  <corpauth1></corpauth1>
+  <publisher1></publisher1>
+  <city1></city1>
+  <country1></country1>
+  <journal1></journal1>
+  <journalauthor1></journalauthor1>
+  <volume1></volume1>
+  <issue1></issue1>
+  <issn1></issn1>
+  <isbn1></isbn1>
+  <librarycongress1></librarycongress1>
+  <doi1></doi1>
+  <url1></url1>
+  <medium1></medium1>
+  <edition1></edition1>
+  <institution1></institution1>
+  <publicationtype1></publicationtype1>
+  <chapter1></chapter1>
+  <pages1></pages1>
+  <series1></series1>
+  <organization1></organization1>
+  <university1></university1>
+  <editor1></editor1>
+  <translator1></translator1>
+  <etcetera1></etcetera1>
+  <annotation1></annotation1>
+</entry>
+<author>
+<firstname></firstname>
+</author>
+</source>
+
+<source>
+<entry id="2" name="">
+  <type2>1</type2>
+  <title2></title2>
+  <date>
+    <day2></day2>
+    <month2></month2>
+    <year2></year2>
+  </date>
+  <corpauth2></corpauth2>
+  <publisher2></publisher2>
+  <city2></city2>
+  <country2></country2>
+  <journal2></journal2>
+  <journalauthor2></journalauthor2>
+  <volume2></volume2>
+  <issue2></issue2>
+  <issn2></issn2>
+  <isbn2></isbn2>
+  <librarycongress2></librarycongress2>
+  <doi2></doi2>
+  <url2></url2>
+  <medium2></medium2>
+  <edition2></edition2>
+  <institution2></institution2>
+  <publicationtype2></publicationtype2>
+  <chapter2></chapter2>
+  <pages2></pages2>
+  <series2></series2>
+  <organization2></organization2>
+  <university2></university2>
+  <editor2></editor2>
+  <translator2></translator2>
+  <etcetera2></etcetera2>
+  <annotation2></annotation2>
+</entry>
+<author>
+<firstname></firstname>
+</author>
+</source>
+
+<source>
+<entry id="3" name="">
+  <type3>0</type3>
+  <title3></title3>
+  <date>
+    <day3></day3>
+    <month3></month3>
+    <year3></year3>
+  </date>
+  <corpauth3></corpauth3>
+  <publisher3></publisher3>
+  <city3></city3>
+  <country3></country3>
+  <journal3></journal3>
+  <article3></article3>
+  <volume3></volume3>
+  <issue3></issue3>
+  <issn3></issn3>
+  <isbn3></isbn3>
+  <librarycongress3></librarycongress3>
+  <doi3></doi3>
+  <url3></url3>
+  <medium3></medium3>
+  <edition3></edition3>
+  <institution3></institution3>
+  <publicationtype3></publicationtype3>
+  <chapter3></chapter3>
+  <pages3></pages3>
+  <series3></series3>
+  <organization3></organization3>
+  <university3></university3>
+  <editor3></editor3>
+  <translator3></translator3>
+  <etcetera3></etcetera3>
+  <annotation3></annotation3>
+</entry>
+<author30>
+<firstname30></firstname30>
+</author30>
+</source>
+</ENTRIES>
