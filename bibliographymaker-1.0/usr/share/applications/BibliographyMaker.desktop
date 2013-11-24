@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Bibliography Maker
-Comment=A Bibliography Indexer, Database, and Formatter 
-Exec=bibliographymaker
-Icon=/usr/share/pixmaps/bibmake.png
-Terminal=false
-Type=Application
-Categories=Accessories;Education
