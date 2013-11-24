@@ -1,0 +1,7 @@
+package: BiblioMaker
+version: 1.0.1
+architecture: i386
+maintainer: Greg Lee<gregroll5808@gmail.com>
+description: Bibliography Maker
+             The only true bibliography indexing, building, and viewing application with a full, integrated local database. Written in C# with GTK# GUI tools.
+
