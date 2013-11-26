@@ -1,3 +1,5 @@
+<img src="https://raw.github.com/gaslightsoft/bibliomake/gh-pages/bibmake.png" />
+
 NOTICE: Incomplete Software - Still in Production<br/>
 
 STATUS: Indexing working 100% for all fields <br/>
