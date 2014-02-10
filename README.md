@@ -19,3 +19,5 @@ THE GOOD NEWS: If you want a bibliography in Chicago Style, 95% of resource type
                 -Installation packages available for Microsoft Windows versions compatable with .NET 4.0 <br/>
                 -.NET 4.0 and GTK# Framework included in Windows Installer <br />
 1.0.2 UPDATE: Italicized Font Formatting available, Chicago style now 100% accurate <br />
+1.1.1 UPDATE: Added Indexing Functionality to edit/revise/add to previous entries as well as changing the type and format<br />
+
