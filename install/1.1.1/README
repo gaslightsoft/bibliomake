@@ -1,2 +1,7 @@
 LINUX Users: Must run
 $sudo apt-get install mono-complete
+
+WINDOWS Users: Must install
+1. .NET Framework 4.0 Setup .exe
+2. GTK# framework Setup .exe
+3. Bibliomake Setup .exe
